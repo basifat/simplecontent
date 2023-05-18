@@ -1,8 +1,8 @@
 
-# Learn about our target audience:
+# Learn about our target audience
+Please read below the exact target persona thatw e write for.
 
-
-## Audience persona:
+## Audience persona
 Name: James or Celine
 Age: 19 -35
 Education level: High school leaver
