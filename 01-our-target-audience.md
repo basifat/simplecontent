@@ -3,8 +3,7 @@
 
 
 ## Audience persona:
-
-#### Name: James or Celine
+Name: James or Celine
 Age: 19 -35
 Education level: High school leaver
 Job: Any job or career
