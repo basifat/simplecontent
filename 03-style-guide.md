@@ -19,7 +19,7 @@ Communicate Delays and Roadblocks to Your Editor Proactively
 Check Your Email When You Have an Open Assignment
 
 
-##Voice
+## Voice
 **Write in Second Person** 
 
 Speak to your readers directly using “you” and “your.” Avoid “we” and “our.”
@@ -56,7 +56,7 @@ Bad:
 
 *There is currently a lively, ongoing controversy among many computer scientists and other professionals in the field of software development: theories are being spun and arguments are being conducted among them about whether the use of tabs to designate indentation in a document is superior to the use of spaces for the same purpose.*
 
-##Content
+## Content
 
 **The Introduction**
 
@@ -103,7 +103,7 @@ Good:
 *While JSON data types come with some drawbacks, they are useful when you need more flexibility in your data structure. Thanks to Django’s native support for `jsonb`, you can get started using JSON data in your web applications without [learning all the native Postgres query operators](https://www.postgresql.org/docs/current/functions-json.html).
 Next time you need more flexibility in your data model and want to benefit from the strengths of Postgres give `jsonb` fields a try.*
 
-##Conventions 
+## Conventions 
 
 **Write in Markdown**
 
