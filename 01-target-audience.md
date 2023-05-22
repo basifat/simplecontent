@@ -1,5 +1,8 @@
 
-- [Learn about our target audience personas](#learn-about-our-target-audience-personas)
+
+# Our target audience personas
+Please read below for the target persona that we write for:
+- [Our target audience personas](#our-target-audience-personas)
   - [James](#james)
     - [James's familiarity with coding:](#jamess-familiarity-with-coding)
     - [James's goals and aspirations:](#jamess-goals-and-aspirations)
@@ -9,9 +12,6 @@
     - [Celine's goals and aspirations:](#celines-goals-and-aspirations)
     - [Celine's current means of learning:](#celines-current-means-of-learning)
 
-
-# Learn about our target audience personas
-Please read below for the target persona that we write for.
 
 ## James
 James, a male between 19 and 35, has a minimum high school education and is currently unemployed or employed (at any job or career).
