@@ -166,11 +166,11 @@ If you have screenshots or diagrams in your content, upload them to Imgur’s fr
 
 Good:
 
-*![A diagram showing different computer hardware](https://i.imgur.com/hBE7ZF8.jpg)*
+`![A diagram showing different computer hardware](https://i.imgur.com/hBE7ZF8.jpg)`
 
 Bad:
 
-*![](https://www.my-private-image-server.net/image-1.png)*
+`![](https://www.my-private-image-server.net/image-1.png)`
 
 ### Use Headers to Break Up Sections
 
