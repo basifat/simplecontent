@@ -113,7 +113,7 @@ Good:
 
 Bad:
 
-*Writing about several different topics without any structure.*
+*Writing about several different main concepts without any structure.*
 
 
 ### Support Claims With Evidence
