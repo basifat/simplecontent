@@ -1,5 +1,5 @@
 
-# Welcome to the simple content Content Style Guide
+# Welcome to the Simple Content Style Guide
 You are welcome. We have put together a style guide to help you understand our work and how you can support us. We hope that you find it helpful and helps you better support us.
 
 ## Using the Guide
