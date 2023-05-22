@@ -38,7 +38,7 @@ Break down longer sentences into shorter ones. This helps people read faster and
 
 ### Use short paragraphs. 
 
-Break down longer paragraphs into one or two sentence paragraphs. Walls of text will make your readers abandon your tutorial or switch to “skimming” mode.
+Break down longer paragraphs into one or two-sentence paragraphs. Walls of text will make your readers abandon your tutorial or switch to “skimming” mode.
 
 ### Write in Second Person
 
@@ -46,11 +46,11 @@ Speak to your readers directly using “you” and “your.” Avoid “we” an
 
 Good:
 
-*You can use a web browser (like Chrome, Safari, or Edge) to access web sites on the internet*
+*You can use a web browser (like Chrome, Safari, or Edge) to access websites on the internet*
 
 Bad:
 
-*We can use our web browsers (like Chrome, Safari, or Edge) to access web sites on the internet.*
+*We can use our web browsers (like Chrome, Safari, or Edge) to access websites on the internet.*
 
 ### Use Conversational, Business-Appropriate Language
 
@@ -78,7 +78,7 @@ Bad:
 *There is currently a lively, ongoing controversy among many computer scientists and other professionals in the field of software development: theories are being spun and arguments are being conducted among them about whether the use of tabs to designate indentation in a document is superior to the use of spaces for the same purpose.*
 
 ### Stay on Topic
-Your readers’ time is finite. Help your readers to get as much value out of your content as possible before they have to move on with their lives.
+Your readers’ time is finite. Help your readers get as much value from your content as possible before they have to move on with their lives.
 
 ## Content
 
@@ -102,7 +102,7 @@ Bad (no “hook”):
 In this post, I’ll show you how to use Postgres’ JSON fields in a Django web application. You’ll learn about the differences between json and jsonb, how to query JSON data and some of the drawbacks of storing your data in JSON.*
 
 ### Use Sub-headings to Structure Your Main Concepts
-Structure your text with sub-headings. For every main concept related to your original topic, add sub-headings to introduce the concepts.
+Structure your text with sub-headings. Add sub-headings to introduce the concepts for every main concept related to your original topic.
 
 Good:
 
@@ -259,21 +259,8 @@ Bad:
 
 *Hey James,
 I know my Postgres content was due today, but I’m not able to figure out the JSON fields in Postgres. Could I have an extension until next week to struggle with it more?
-Authors that miss deadlines without communicating will not be eligible for future assignments.
-Check Your Email When You Have an Open Assignment
-While you have an open assignment, you should respond to emails within 48 hours unless you’ve notified us of your unavailability. If the assignment is overdue, you should respond within 24 hours.*
 
-Good:
-
-*Hey James,
-Thanks for the update on this content. I’ll keep that in mind while I’m working on the piece this weekend.*
-
-Bad:
-
-*Hey James,
-Sorry, but I didn’t see your email until today and I know the content is due now. I’ll try to incorporate your feedback before midnight if I can.*
-
-Authors that miss deadlines without communicating will not be eligible for future assignments.
+Authors must communicate on time to meet deadlines to be eligible for future assignments.
 
 ### Check Your Email When You Have an Open Assignment
 While you have an open assignment, you should respond to emails within 48 hours unless you’ve notified us of your unavailability. If the assignment is overdue, you should respond within 24 hours.
