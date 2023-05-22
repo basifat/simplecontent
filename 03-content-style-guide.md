@@ -289,4 +289,6 @@ Sorry, but I didn’t see your email until today and I know the content is due n
 
 Authors that fail to respond to emails about open assignments will not be eligible for future assignments.
 
-This guide has been produced with the help of style guides provided by freecodecamp.com, Draft.dev and others.
+
+
+*This guide has been produced with the help of style guides provided by Draft.dev, freecodecamp.com, and others*
