@@ -1,4 +1,15 @@
 
+- [Learn about our target audience personas](#learn-about-our-target-audience-personas)
+  - [James](#james)
+    - [James's familiarity with coding:](#jamess-familiarity-with-coding)
+    - [James's goals and aspirations:](#jamess-goals-and-aspirations)
+    - [James's current means of learning:](#jamess-current-means-of-learning)
+  - [Celine](#celine)
+    - [Celine's familiarity with coding:](#celines-familiarity-with-coding)
+    - [Celine's goals and aspirations:](#celines-goals-and-aspirations)
+    - [Celine's current means of learning:](#celines-current-means-of-learning)
+
+
 # Learn about our target audience personas
 Please read below for the target persona that we write for.
 
