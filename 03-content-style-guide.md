@@ -14,7 +14,7 @@
     - [Use Sub-headings to Structure Your Main Concepts](#use-sub-headings-to-structure-your-main-concepts)
     - [Support Claims With Evidence](#support-claims-with-evidence)
     - [The Conclusion](#the-conclusion)
-    - [Sample Contents](#sample-contents)
+    - [A few Sample Contents](#a-few-sample-contents)
   - [Conventions](#conventions)
     - [Write in Markdown](#write-in-markdown)
     - [Upload Images to Imgur](#upload-images-to-imgur)
@@ -142,7 +142,7 @@ Good:
 *While JSON data types come with some drawbacks, they are useful when you need more flexibility in your data structure. Thanks to Django’s native support for `jsonb`, you can get started using JSON data in your web applications without [learning all the native Postgres query operators](https://www.postgresql.org/docs/current/functions-json.html).
 Next time you need more flexibility in your data model and want to benefit from the strengths of Postgres give `jsonb` fields a try.*
 
-### Sample Contents
+### A few Sample Contents
 - https://realpython.com/python-exceptions/
 - https://realpython.com/python-use-global-variable-in-function/
 - https://realpython.com/how-to-split-a-python-list-into-chunks/
@@ -220,14 +220,15 @@ Use blockquotes when the quote is two or more lines long.
 
 Good:
 
-*Some text leading up to the quote.
-> “The field/element/path extraction operators return NULL, rather than failing, if the JSON input does not have the right structure to match the request; for example if no such key or array element exists.”
-Some text after the quote.*
+> *Some text leading up to the quote.*
+>*“The field/element/path extraction operators return NULL, rather than failing, if the JSON input does not have the right structure to match the request; for example if no such key or array element exists.”*
+>*Some text after the quote.*
 
 Bad:
 
-*Some text leading up to the quote. “The field/element/path extraction operators return NULL, rather than failing, if the JSON input does not have the right structure to match the request; for example if no such key or array element exists.” Some text after the quote.
-Use inline quotes when the quote is relatively short or when you’re referencing a single word or phrase.*
+*Some text leading up to the quote. “The field/element/path extraction operators return NULL, rather than failing, if the JSON input does not have the right structure to match the request; for example if no such key or array element exists.” Some text after the quote.*
+
+Use inline quotes when the quote is relatively short or when you’re referencing a single word or phrase.
 
 Good:
 
@@ -235,7 +236,7 @@ Good:
 
 Bad:
 
-*> “There’s nothing to see here.” - Davies*
+*“There’s nothing to see here.” - Davies*
 
 ### Use Emphasis Sparingly
 
