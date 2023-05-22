@@ -1,8 +1,4 @@
 
-- [Who are we?](#who-are-we)
-- [Why are we different?](#why-are-we-different)
-- [How does our mission make people's lives better?](#how-does-our-mission-make-peoples-lives-better)
-
 ## Who are we?
 We aim to help aspiring and new developers become proficient with the Python programming language and any related backend technologies.
 
