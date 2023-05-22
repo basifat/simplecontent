@@ -1,8 +1,8 @@
 
 
-# Our target audience personas
+# Our target audience
 Please read below for the target persona that we write for:
-- [Our target audience personas](#our-target-audience-personas)
+- [Our target audience](#our-target-audience)
   - [James](#james)
     - [James's familiarity with coding:](#jamess-familiarity-with-coding)
     - [James's goals and aspirations:](#jamess-goals-and-aspirations)

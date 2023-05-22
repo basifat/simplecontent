@@ -1,7 +1,5 @@
 
 # Content Style Guide
-
-
 - [Content Style Guide](#content-style-guide)
   - [Voice](#voice)
     - [Keep it simple.](#keep-it-simple)
@@ -274,10 +272,7 @@ Bad:
 *Hey James,
 Sorry, but I didn’t see your email until today and I know the content is due now. I’ll try to incorporate your feedback before midnight if I can.*
 
-Authors that fail to respond to emails about open assignments will not be eligible for future assignments.
-
-
-*This content brief template is provided free of charge from Draft.dev. It may be used and distributed freely with attribution by linking to the source at Draft.dev/#playbook.*
+Authors that miss deadlines without communicating will not be eligible for future assignments.
 
 ### Check Your Email When You Have an Open Assignment
 While you have an open assignment, you should respond to emails within 48 hours unless you’ve notified us of your unavailability. If the assignment is overdue, you should respond within 24 hours.
@@ -294,6 +289,3 @@ Sorry, but I didn’t see your email until today and I know the content is due n
 
 Authors that fail to respond to emails about open assignments will not be eligible for future assignments.
 
-
-
-*This guide has been produced with the help of style guides provided by Draft.dev, freecodecamp.com, and others*
