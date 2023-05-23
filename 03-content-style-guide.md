@@ -102,7 +102,7 @@ Bad (no “hook”):
 In this post, I’ll show you how to use Postgres’ JSON fields in a Django web application. You’ll learn about the differences between json and jsonb, how to query JSON data and some of the drawbacks of storing your data in JSON.*
 
 ### Use Sub-headings to Structure Your Main Concepts
-Structure your text with sub-headings. Add sub-headings to introduce the concepts for every main concept related to your original topic.
+Structure your text with sub-headings. Add sub-headings to introduce every main concept related to your original topic.
 
 Good:
 
@@ -113,7 +113,7 @@ Good:
 
 Bad:
 
-*Writing about several different main concepts without any structure.*
+*Writing about several main concepts all at once with no sub topics or use of structure.*
 
 
 ### Support Claims With Evidence
