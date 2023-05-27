@@ -84,6 +84,7 @@ Your readers’ time is finite. Help your readers get as much value from your co
 ## Content
 
 ### The Outline
+- Title
 - Introduction
   - Point 1
   - Point 2
