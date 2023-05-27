@@ -10,6 +10,7 @@
     - [Don’t Repeat Yourself](#dont-repeat-yourself)
     - [Stay on Topic](#stay-on-topic)
   - [Content](#content)
+    - [The Outline](#the-outline)
     - [The Introduction](#the-introduction)
     - [Use Sub-headings to Structure Your Main Concepts](#use-sub-headings-to-structure-your-main-concepts)
     - [Support Claims With Evidence](#support-claims-with-evidence)
@@ -82,6 +83,16 @@ Your readers’ time is finite. Help your readers get as much value from your co
 
 ## Content
 
+### The Outline
+- Introduction
+  - Point 1
+  - Point 2
+- Body
+  - Point 1
+  - Point 2
+  - Point 3
+- Conclusion
+
 ### The Introduction
 
 Every content should have a 1-3 paragraph introduction. This introduction should accomplish two things:
@@ -102,7 +113,7 @@ Bad (no “hook”):
 In this post, I’ll show you how to use Postgres’ JSON fields in a Django web application. You’ll learn about the differences between json and jsonb, how to query JSON data and some of the drawbacks of storing your data in JSON.*
 
 ### Use Sub-headings to Structure Your Main Concepts
-Structure your text with sub-headings. Add sub-headings to introduce every main concept related to your original topic.
+Structure the body of your content with sub-headings. Add sub-headings to introduce every main concept related to your original topic.
 
 Good:
 
