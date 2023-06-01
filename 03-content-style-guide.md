@@ -91,16 +91,16 @@ Each article should be at least 1500 words.
 
 ### Topic research
 
-A smart technique to perform in-depth research on a topic is to look for it on StackOverflow and Github. Find numerous connected themes, issues, answers, and examples other developers have already provided.
-It will enable you to cover the issue in greater depth and with excellent examples. 
+Searching for a topic on StackOverflow and Github is a smart way to conduct in-depth research. Find various related themes, issues, answers, and examples provided by other developers.
+It will allow you to go into greater depth and provide good examples. 
 
-Topic example: `Python zip function`
+As an example, consider the following topic: 'Python zip function'
 
-The StackOverflow link below shows beyond the simple usage of the Python zip function. 
-It delves into many use cases with different Python data types, and it provides valuable examples. 
-If you look closely, you will notice that the actual article draws inspiration from the StackOverflow page and covers many of the same subjects and examples as the StackOverflow page. 
+The StackOverflow link provided below goes beyond the basic use of the Python zip function. 
+It delves into numerous use cases involving various Python data types and provides useful examples. 
+If you look closely, you will discover that the StackOverflow page inspires the actual article and includes many of the same topics and examples. 
 
-So take as much inspiration as you need from StackOverflow and Github but do not copy-paste code samples from these sites. 
+So, while StackOverflow and Github can inspire, do not copy-paste code samples from these sites. 
 
 Good: 
 
