@@ -113,7 +113,7 @@ https://realpython.com/python-zip-function/#looping-across-multiple-iterables*
 
 Bad: 
 
-*The content below lacks depth compared to the two resources mentioned above. 
+*The following content lacks depth compared to the two resources mentioned above: 
 https://www.programiz.com/python-programming/methods/built-in/zip*
 
 ### The Outline
