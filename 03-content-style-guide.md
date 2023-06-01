@@ -10,13 +10,16 @@
     - [Don’t Repeat Yourself](#dont-repeat-yourself)
     - [Stay on Topic](#stay-on-topic)
   - [Content](#content)
+    - [Word count](#word-count)
+    - [Topic research](#topic-research)
     - [The Outline](#the-outline)
     - [The Introduction](#the-introduction)
     - [Use Sub-headings to Structure Your Main Concepts](#use-sub-headings-to-structure-your-main-concepts)
     - [Support Claims With Evidence](#support-claims-with-evidence)
     - [The Conclusion](#the-conclusion)
-    - [A few Examplars](#a-few-examplars)
+    - [Content Exemplars](#content-exemplars)
   - [Conventions](#conventions)
+    - [Deadline:](#deadline)
     - [Write in Markdown](#write-in-markdown)
     - [Upload Images to Imgur](#upload-images-to-imgur)
     - [Use Headers to Break Up Sections](#use-headers-to-break-up-sections)
@@ -82,6 +85,36 @@ Bad:
 Your readers’ time is finite. Help your readers get as much value from your content as possible before they have to move on with their lives.
 
 ## Content
+
+### Word count
+Each article should be at least 1500 words.
+
+### Topic research
+
+A smart technique to perform in-depth research on a topic is to look for it on StackOverflow and Github. Find numerous connected themes, issues, answers, and examples other developers have already provided.
+It will enable you to cover the issue in greater depth and with excellent examples. 
+
+Topic example: `Python zip function`
+
+The StackOverflow link below shows beyond the simple usage of the Python zip function. 
+It delves into many use cases with different Python data types, and it provides valuable examples. 
+If you look closely, you will notice that the actual article draws inspiration from the StackOverflow page and covers many of the same subjects and examples as the StackOverflow page. 
+
+So take as much inspiration as you need from StackOverflow and Github but do not copy-paste code samples from these sites. 
+
+Good: 
+
+*Research reference:
+https://stackoverflow.com/questions/13704860/zip-lists-in-python*
+
+*Actual content: 
+https://realpython.com/python-zip-function/#looping-across-multiple-iterables*
+
+
+Bad: 
+
+*The content below lacks depth compared to the two resources mentioned above. 
+https://www.programiz.com/python-programming/methods/built-in/zip*
 
 ### The Outline
 - Title
@@ -154,7 +187,8 @@ Good:
 *While JSON data types come with some drawbacks, they are useful when you need more flexibility in your data structure. Thanks to Django’s native support for `jsonb`, you can get started using JSON data in your web applications without [learning all the native Postgres query operators](https://www.postgresql.org/docs/current/functions-json.html).
 Next time you need more flexibility in your data model and want to benefit from the strengths of Postgres give `jsonb` fields a try.*
 
-### A few Examplars
+
+### Content Exemplars
 - https://realpython.com/python-exceptions/
 - https://realpython.com/python-use-global-variable-in-function/
 - https://realpython.com/how-to-split-a-python-list-into-chunks/
@@ -162,7 +196,12 @@ Next time you need more flexibility in your data model and want to benefit from 
 - https://www.freecodecamp.org/news/how-to-build-and-publish-python-packages-with-poetry/
 - https://realpython.com/python-string-concatenation/
 
+
+
 ## Conventions 
+
+### Deadline:
+3 business days 
 
 ### Write in Markdown
 
