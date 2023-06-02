@@ -104,11 +104,11 @@ So, while StackOverflow and Github can inspire, do not copy-paste code samples f
 
 Good: 
 
-*Research reference:
-https://stackoverflow.com/questions/13704860/zip-lists-in-python*
+*Research reference:*
+*https://stackoverflow.com/questions/13704860/zip-lists-in-python*
 
-*Actual content: 
-https://realpython.com/python-zip-function/#looping-across-multiple-iterables*
+*Actual content:*
+*https://realpython.com/python-zip-function/#looping-across-multiple-iterables*
 
 
 Bad: 
