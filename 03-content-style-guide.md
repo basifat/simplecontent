@@ -14,9 +14,9 @@
     - [Topic research](#topic-research)
     - [The Outline](#the-outline)
     - [The Introduction](#the-introduction)
-    - [Use Sub-headings to Structure Your Main Concepts](#use-sub-headings-to-structure-your-main-concepts)
+    - [Body](#body)
+    - [Conclusion](#conclusion)
     - [Support Claims With Evidence](#support-claims-with-evidence)
-    - [The Conclusion](#the-conclusion)
     - [Content Exemplars](#content-exemplars)
   - [Conventions](#conventions)
     - [Deadline:](#deadline)
@@ -87,7 +87,7 @@ Your readers’ time is finite. Help your readers get as much value from your co
 ## Content
 
 ### Word count
-Each article should be at least 1500 words.
+Each article should be at least 2000 words.
 
 ### Topic research
 
@@ -96,11 +96,11 @@ It will allow you to go into greater depth and provide good examples.
 
 As an example, consider the following topic: 'Python zip function'
 
-The StackOverflow link provided below goes beyond the basic use of the Python zip function. 
-It delves into numerous use cases involving various Python data types and provides useful examples. 
+The StackOverflow link below goes beyond the basic use of the Python zip function. 
+It delves into numerous use cases involving various Python data types and provides concrete examples. 
 If you look closely, you will discover that the StackOverflow page inspires the actual article and includes many of the same topics and examples. 
 
-So, while StackOverflow and Github can inspire, do not copy-paste code samples from these sites. 
+So, while StackOverflow, GitHub, and the official Python documentation can inspire, do not copy-paste code samples from these sites. 
 
 Good: 
 
@@ -135,40 +135,75 @@ Every content should have a 1-3 paragraph introduction. This introduction should
 
 Good: 
 
-*I remember the first time I built user preferences into an app. At first, users just needed to be able to opt in or out of our weekly emails. “No big deal,” I thought, “I’ll just add a new field on the Users table.” For a while, that was fine. A few weeks later, my boss asked me if we could let users opt into push notifications. Fine, that’s just one more column on the database. Can’t hurt, right?
-You probably see where this is going.
-Within months, my user table had 40 columns, and while Postgres can handle it, it gets pretty tricky for new devs to keep up with all of them.
-Fortunately, Postgres provides rich support for JSON fields, which can be very handy in situations like mine. Both JSON data types (json and jsonb) allow you to store entire objects or lists directly in your database. This means that you can store any number of user preferences in one column.
-In this post, I’ll show you how to use Postgres’ JSON fields in a Django web application. You’ll learn about the differences between json and jsonb, how to query JSON data and some of the drawbacks of storing your data in JSON.*
+*Python’s zip() function creates an iterator that will aggregate elements from two or more iterables. You can use the resulting iterator to quickly and consistently solve common programming problems, like creating dictionaries. In this tutorial, you’ll discover the logic behind the Python zip() function and how you can use it to solve real-world problems.*
+
+*By the end of this tutorial, you’ll learn:*
+
+- *How zip() works in both Python 3 and Python 2*
+- *How to use the Python zip() function for parallel iteration*
+- *How to create dictionaries on the fly using zip()*
 
 Bad (no “hook”):
 
 *Postgres provides rich support for JSON fields, which can be very handy. Both JSON data types (json and jsonb) allow you to store entire objects or lists directly in your database. This means that you can store any number of user preferences in one column.
 In this post, I’ll show you how to use Postgres’ JSON fields in a Django web application. You’ll learn about the differences between json and jsonb, how to query JSON data and some of the drawbacks of storing your data in JSON.*
 
-### Use Sub-headings to Structure Your Main Concepts
-Structure the body of your content with sub-headings. Add sub-headings to introduce every main concept related to your original topic.
+### Body
+
+There will be multiple headings and subheadings in the body of your content. It allows the reader to swiftly browse through your content and identify the information that is important to them.  
+
+Add headers and subheadings to assist your readers in understanding the topic better:
+
+1. See the official Python documentation if you require documented information about your topic or notion.
+2. Use StackOverflow and GitHub to find several examples showcasing the usage of the topic.
+3. Come up with your own examples that provide the opportunity to explain the topic further.
+
+Example breakdown:
+
+- ##### Understanding the Python zip() Function
+- ##### Using zip() in Python
+  - Passing n Arguments
+  - Passing No Arguments
+  - Passing One Argument
+  - Passing Arguments of Unequal Length
+- ##### Looping Over Multiple Iterables
+  - Traversing Lists in Parallel
+  - Traversing Dictionaries in Parallel
+  - Unzipping a Sequence
+  - Sorting in Parallel
+  - Calculating in Pairs
+  - Building 
+
+
+The first header provides the zip function with additional context. At least 2 concrete examples should support each heading or subheading.
+
+The second header divides the use of the zip function into subsections. At least 2 concrete examples should also support each heading or subheading.
+
+On the other hand, the third heading provides subheadings that provide more practical applications of the zip function. At least 2 concrete examples should also support each subheading.
+
+**Note: Include as many headings and subheadings as are required to provide clear and in-depth writing on the topic.**
+
+### Conclusion
+This section brings your writing to a close and summarizes what the reader has learned. Your content should include a 1-2 paragraph conclusion. It should restate the thesis of the content and remind your readers what they learned. 
 
 Good:
 
-- *Exceptions versus Syntax Errors*
-- *Raising an Exception*
-- *The AssertionError Exception*
-- *The try and except Block: Handling Exceptions*
+*In this tutorial, you’ve learned how to use Python’s zip() function. zip() can receive multiple iterables as input. It returns an iterator that can generate tuples with paired elements from each argument. The resulting iterator can be quite useful when you need to process multiple iterables in a single loop and perform some actions on their items at the same time.*
 
-Bad:
+*Now you can:*
 
-*Writing about several main concepts all at once with no sub topics or use of structure.*
+- *Use the zip() function in both Python 3 and Python 2*
+- *Loop over multiple iterables and perform different actions on their items in parallel*
+- *Create and update dictionaries on the fly by zipping two input iterables together*
+  
+*You’ve also coded a few examples that you can use as a starting point for implementing your own solutions using Python’s zip() function. Feel free to modify these examples as you explore zip() in depth!*
 
 
 ### Support Claims With Evidence
 
-For every claim you make, ask yourself, “How can I prove this?” You can do this by:
-- Including a link to a reputable content
-- Including a quote from another source
+Ask yourself for every claim you make, “How can I prove this?” You can do this by:
 - Citing an academic study
 - Linking to the official documentation
-- Interviewing knowledgeable professionals
 
 Good:
 
@@ -177,15 +212,6 @@ Good:
 Bad:
 
 *While I’m guessing Postgres can handle a lot of columns, it might not be a good idea to use more than a hundred if you can help it.*
-
-### The Conclusion
-
-Every content should include a 1-2 paragraph conclusion. This should restate the thesis of the content and remind readers what they learned. It may also include other resources readers can reference to learn more.
-
-Good:
-
-*While JSON data types come with some drawbacks, they are useful when you need more flexibility in your data structure. Thanks to Django’s native support for `jsonb`, you can get started using JSON data in your web applications without [learning all the native Postgres query operators](https://www.postgresql.org/docs/current/functions-json.html).
-Next time you need more flexibility in your data model and want to benefit from the strengths of Postgres give `jsonb` fields a try.*
 
 
 ### Content Exemplars
