@@ -1,7 +1,7 @@
 
 # Content Style Guide
 - [Content Style Guide](#content-style-guide)
-  - [Voice](#voice)
+- [Voice](#voice)
     - [Keep it simple.](#keep-it-simple)
     - [Use short sentences.](#use-short-sentences)
     - [Use short paragraphs.](#use-short-paragraphs)
@@ -9,7 +9,7 @@
     - [Use Conversational, Business-Appropriate Language](#use-conversational-business-appropriate-language)
     - [Don’t Repeat Yourself](#dont-repeat-yourself)
     - [Stay on Topic](#stay-on-topic)
-  - [Content](#content)
+- [Content](#content)
     - [Word count](#word-count)
     - [Topic research](#topic-research)
     - [The Outline](#the-outline)
@@ -18,7 +18,7 @@
     - [Conclusion](#conclusion)
     - [Support Claims With Evidence](#support-claims-with-evidence)
     - [Content Exemplars](#content-exemplars)
-  - [Conventions](#conventions)
+- [Conventions](#conventions)
     - [Deadline:](#deadline)
     - [Write in Markdown](#write-in-markdown)
     - [Upload Images to Imgur](#upload-images-to-imgur)
@@ -31,7 +31,7 @@
     - [Check Your Email When You Have an Open Assignment](#check-your-email-when-you-have-an-open-assignment)
 
 
-## Voice
+# Voice
 
 ### Keep it simple. 
 
@@ -84,23 +84,34 @@ Bad:
 ### Stay on Topic
 Your readers’ time is finite. Help your readers get as much value from your content as possible before they have to move on with their lives.
 
-## Content
+# Content
 
 ### Word count
 Each article should be at least 2000 words.
 
 ### Topic research
 
-Searching for a topic on StackOverflow and Github is a smart way to conduct in-depth research. Find various related themes, issues, answers, and examples provided by other developers.
-It will allow you to go into greater depth and provide good examples. 
+Search for your topic keyword on StackOverflow, Github or the official Python documentation page. Find several sample codes (generally 20-30 examples) that you can use in your writing to reinforce the concept. 
 
-As an example, consider the following topic: 'Python zip function'
+Examples are great because you can also easily group them into groups that can later become a part of your outline. Sample codes can also lead you to related themes, topics, issues, or answers worth writing about in your content. Sample codes will also ensure that your writing covers excellent depth and provides good examples. 
 
-The StackOverflow link below goes beyond the basic use of the Python zip function. 
-It delves into numerous use cases involving various Python data types and provides concrete examples. 
-If you look closely, you will discover that the StackOverflow page inspires the actual article and includes many of the same topics and examples. 
 
-So, while StackOverflow, GitHub, and the official Python documentation can inspire, do not copy-paste code samples from these sites. 
+For example, consider the following topic: 'Python zip function'
+
+*StackOverflow link*: https://stackoverflow.com/questions/13704860/zip-lists-in-python
+
+The StackOverflow link above goes beyond the basic use of the Python zip function. It provides concrete examples and use cases, including those with different Python data types.
+
+*Actual content link*: https://realpython.com/python-zip-function/#looping-across-multiple-iterables
+
+If you look closely at the *actual content link* above, you will find that the StackOverflow page inspires the actual article, which includes many of the same context, code samples and similar examples. 
+
+You can do similar research on GitHub if you are only looking for code examples. Hundred, if not tens of thousands, code samples are available on GitHub.
+
+Use this sample code-oriented approach to draft your first outline. 
+
+Please note while StackOverflow, GitHub, the official Python documentation or other online content can inspire your outline and writing, please do not copy-paste code samples from these sites. We will reject plagiarised content.
+
 
 Good: 
 
@@ -150,22 +161,27 @@ In this post, I’ll show you how to use Postgres’ JSON fields in a Django web
 
 ### Body
 
-There will be multiple headings and subheadings in the body of your content. It allows the reader to swiftly browse through your content and identify the information that is important to them.  
+Your content will have multiple headings and subheadings. This high-level and logical breakdown of your content will allow readers to swiftly browse through your content and identify the information that is important to them.  
 
-Add headers and subheadings to assist your readers in understanding the topic better:
+Use the following sources to create headers and subheadings to make your content stand out:
 
-1. See the official Python documentation if you require documented information about your topic or notion.
-2. Use StackOverflow and GitHub to find several examples showcasing the usage of the topic.
-3. Come up with your own examples that provide the opportunity to explain the topic further.
+1. The official Python documentation, if you require documented information about your topic.
+2. StackOverflow and GitHub for code examples that showcase the usage of your topic.
+3. Come up with other own examples that further clarify your topic.
 
-Example breakdown:
+Example headline/subheading breakdowns:
 
-- ##### Understanding the Python zip() Function
+- ##### Understanding the Python zip() Function 
+This first header talks about the generic introductory information about the zip function. It provides the reader with additional context following the introduction. At least 2 concrete examples must support this section.
+
 - ##### Using zip() in Python
   - Passing n Arguments
   - Passing No Arguments
   - Passing One Argument
   - Passing Arguments of Unequal Length
+
+This second header breaks down the usage of the zip function into further subsections. In this section, the reader gets to understand specific additional information about using the zip function. At least 2 concrete examples must also support each subsection.
+
 - ##### Looping Over Multiple Iterables
   - Traversing Lists in Parallel
   - Traversing Dictionaries in Parallel
@@ -174,14 +190,10 @@ Example breakdown:
   - Calculating in Pairs
   - Building 
 
+Following the preceding in-depth introductory sections on the topic, the third heading introduces more practical and real-world uses cases of the Python zip function. At least 2 concrete examples must also support each subsection.
 
-The first header provides the zip function with additional context. At least 2 concrete examples should support each heading or subheading.
+**Please note that this breakdown here is only an illustration. Your content can have as many headings and subheadings as necessary to provide a clear and in-depth conversation about your given topic **
 
-The second header divides the use of the zip function into subsections. At least 2 concrete examples should also support each heading or subheading.
-
-On the other hand, the third heading provides subheadings that provide more practical applications of the zip function. At least 2 concrete examples should also support each subheading.
-
-**Note: Include as many headings and subheadings as are required to provide clear and in-depth writing on the topic.**
 
 ### Conclusion
 This section brings your writing to a close and summarizes what the reader has learned. Your content should include a 1-2 paragraph conclusion. It should restate the thesis of the content and remind your readers what they learned. 
@@ -224,7 +236,7 @@ Bad:
 
 
 
-## Conventions 
+# Conventions 
 
 ### Deadline:
 3 business days 
